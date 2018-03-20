@@ -1,0 +1,7 @@
+{
+  "EVENT_BUCKET": "[test-notifications]",
+  "DATASET": "[myDataSet]",
+  "TABLE": "events",
+  "USERNAME": "[decareano]",
+  "PASSWORD": "[Patadur1]"
+}
