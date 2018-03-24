@@ -13,6 +13,7 @@
  * limitations under the License.
  */
 
+/*eslint-disable unknown-require, no-undef-expression*/
 'use strict';
 
 // [START functions_sendgrid_setup]
